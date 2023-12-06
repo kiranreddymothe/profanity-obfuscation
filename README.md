@@ -6,7 +6,7 @@ INTRODUCTION:
 
 ORIGINALITY:
 
---> his algorithm stands out from others by its ability to comprehend the overall essence of a sentence using machine learning, rather than simply checking words against a pre-established list.
+--> This algorithm stands out from others by its ability to comprehend the overall essence of a sentence using machine learning, rather than simply checking words against a pre-established list.
 
 --> Very robust to contextual meaning and intentional behaviour of misspells.
 
