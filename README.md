@@ -13,7 +13,7 @@ Very robust to contextual meaning and intentional behaviour of misspells.
 Can obfuscate words based on purpose of the implementation.
 
 
-(1) Masks words based on semantic understanding of contextual offensiveness. 
+(1) Masks words based on interpretation of contextual offensiveness. 
 
       Example:
       
