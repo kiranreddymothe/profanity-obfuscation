@@ -61,4 +61,42 @@ METRICS used for Behavioural testing of our model(English predictions):
 
 OUTPUT:
 
+            c = 'This stupidd= mothrfucker has come here' 
+            i = 0
+            o = []
+            for word in range(len(c)):
+                if c[word] == ' ':
+                   #print(c[i:word])
+                   o.append(c[i:word])
+                   i = word+1
+                   #o.append(c[i:word])
+            #print(c[i:len(c)])   
+            o.append(c[i:len(c)])
+            #print(o)
+            
+            sen = ''
+            idx = 0
+            for i in o:
+                x = i
+                y = predict_prob(x)
+                if y[0][0] >= 0.75:
+                    #print(len(x))
+                    l = len(x)
+                    a = np.random.randint(2,l)
+                    #print(a)
+                    #print(x[0:a-1]+ '*' + x[a:l])
+                    i = x[0:a-1]+ '*' + x[a:l]
+            
+                if idx == 1:
+                    sen = sen+' '+i
+                if idx == 0:
+                    sen = sen + i
+                    idx += 1   
+            print('\ninput:', c,'\n')
+            print("result:",sen)
+
+input: This stupidd= mothrfucker has come here 
+
+result: This st*pidd= mothrfuck*r has come here            
+
 --> Refer the last cell of the "678_checkpoint2_multilingual_robustness_submission.ipynb" file to check output.
