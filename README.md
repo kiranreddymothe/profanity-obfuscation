@@ -45,7 +45,9 @@ OUTPUT:
  
 --> Refer the last cell of the "678_checkpoint2_multilingual_robustness_submission.ipynb" file to check output.
 
-PACKAGE REQUIREMENTS : torch transformers ekphrasis checklist nltk spacy scikit-learn tqdm pandas seaborn jupyter 
+PACKAGE REQUIREMENTS:
+
+--> torch transformers ekphrasis checklist nltk spacy scikit-learn tqdm pandas seaborn jupyter 
 
 DATASETS:
 
