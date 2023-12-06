@@ -90,7 +90,7 @@ OUTPUT:
                 if idx == 1:
                     sen = sen+' '+i
                 if idx == 0:
-                    sen = sen + i
+                    sen = sen + i 
                     idx += 1   
             print('\ninput:', c,'\n')
             print("result:",sen)
