@@ -33,7 +33,7 @@ ORIGINALITY:
       input - "he is not ass"
       output - "he is not a*s"
 
-Decision of selecting which feature to use depends on the purpose of using the function.
+--> Decision of selecting which feature to use depends on the purpose of using the function.
 
 --> Robust to contextual meaning and intentional behaviour of misspells.
 
