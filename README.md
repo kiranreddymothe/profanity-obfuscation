@@ -1,4 +1,4 @@
-# CS678checkpoint2
+# CS678-checkpoint2
 
 INTRODUCTION:
 
