@@ -49,9 +49,9 @@ DATASETS:
 
 METRICS used for Behavioural testing of our model(English predictions):
 
-      1. Minimum Functionality test
-      2. Invariance test
-      3. Directional Expectation test
+ --> 1. Minimum Functionality test
+ --> 2. Invariance test
+ --> 3. Directional Expectation test
 
 OUTPUT:
 
