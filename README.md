@@ -8,26 +8,28 @@ This algorithm stands out from others by its ability to comprehend the overall e
 
 Very robust to contextual meaning and intentional behaviour of misspells.
 
-Enabling feature 1:
-
-input - "he is ass"
-output - "he is a*s"
-
-input - "he is not ass"
-output - "he is not ass"
-
---> Masks words based on semantic understanding of contextual offensiveness. 
-
-Enabling feature 2:
+Can obfuscate words based on purpose of the implementation.
 
 
-input - "he is ass"
-output - "he is a*s"
+(1) Masks words based on semantic understanding of contextual offensiveness. 
 
-input - "he is not ass"
-output - "he is not a*s"
+      Example:
+      
+      input - "he is ass"
+      output - "he is a*s"
+      
+      input - "he is not ass"
+      output - "he is not ass"
 
---> Masks words based on individual word interpretation in terms of its profanity.
+(2) Masks words based on individual word interpretation in terms of its profanity.
+
+      Example:
+      
+      input - "he is ass"
+      output - "he is a*s"
+      
+      input - "he is not ass"
+      output - "he is not a*s"
 
 Decision of selecting which feature to use depends on the purpose of using the function.
 
