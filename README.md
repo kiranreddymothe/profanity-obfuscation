@@ -2,15 +2,15 @@
 
 INTRODUCTION:
 
-This project titled as "Advanced profanity obfuscation using toxic comments" is a Python function that obfuscates profane words based on either profanity of individual word or contextual interpretation of a sentence.
+--> This project titled as "Advanced profanity obfuscation using toxic comments" is a Python function that obfuscates profane words based on either profanity of individual word or contextual interpretation of a sentence.
 
 ORIGINALITY:
 
-This algorithm stands out from others by its ability to comprehend the overall essence of a sentence using machine learning, rather than simply checking words against a pre-established list.
+--> his algorithm stands out from others by its ability to comprehend the overall essence of a sentence using machine learning, rather than simply checking words against a pre-established list.
 
-Very robust to contextual meaning and intentional behaviour of misspells.
+--> Very robust to contextual meaning and intentional behaviour of misspells.
 
-Can obfuscate words based on purpose of the implementation.
+--> Can obfuscate words based on purpose of the implementation.
 
 
 (1) Masks words based on interpretation of contextual offensiveness. 
