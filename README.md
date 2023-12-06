@@ -2,7 +2,7 @@
 
 INTRODUCTION:
 
---> This project titled as "Advanced profanity obfuscation using toxic comments" is a Python function that obfuscates profane words based on either profanity of individual word or contextual interpretation of a sentence.
+--> This project titled as "Enhanced profanity obfuscation using toxic comments" is a Python function that obfuscates profane words based on either profanity of individual word or contextual interpretation of a sentence.
 
 ORIGINALITY:
 
