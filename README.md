@@ -42,7 +42,7 @@ DATASETS:
  --> Utilizing the A corpus of the Jisaw multilingual toxic comments dataset in English, along with their API translations in French, Spanish, Italian, and Turkish combined with modified set of traininng labels that serves the purpose of our project forms the foundation for training our model. This extensive dataset, consisting of over 200,000 Twitter comments, categorizes whether the comments contain insults or not. It serves as an exceptional resource for individuals interested in experimenting with Natural Language Processing (NLP). We express our gratitude to the creators of this dataset. For unseen profanity check, "test.csv" file was used.
 
 OUTPUT:
-
+ 
 --> Refer the last cell of the "678_checkpoint2_multilingual_robustness_submission.ipynb" file to check output.
 
 PACKAGE REQUIREMENTS : torch transformers ekphrasis checklist nltk spacy scikit-learn tqdm pandas seaborn jupyter 
