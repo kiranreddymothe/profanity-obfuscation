@@ -95,8 +95,9 @@ OUTPUT:
             print('\ninput:', c,'\n')
             print("result:",sen)
 
-input: This stupidd= mothrfucker has come here 
-
-result: This st*pidd= mothrfuck*r has come here            
+            input: This stupidd= mothrfucker has come here 
+            
+            result: This st*pidd= mothrfuck*r has come here            
+            
 
 --> Refer the last cell of the "678_checkpoint2_multilingual_robustness_submission.ipynb" file to check output.
